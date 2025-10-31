@@ -1,7 +1,8 @@
 # 🧠 Mental Health Support Chatbot
 
 An AI-powered chatbot that detects emotions from user text and responds empathetically — built using **Streamlit** and **Transformers (DistilRoBERTa)**.
-🔗 *Live Demo:* [Click here to try the app]([https://mentalhealthchatbot-atharva.streamlit.app/](https://mentalhealthchatbot-5srrm5ak6nqthgfxpwq6dz.streamlit.app/))
+🔗 *Live Demo:* [Click here to try the app]
+([https://mentalhealthchatbot-atharva.streamlit.app/](https://mentalhealthchatbot-5srrm5ak6nqthgfxpwq6dz.streamlit.app/))
 
 
 
